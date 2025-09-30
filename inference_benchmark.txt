@@ -1,0 +1,3 @@
+Keras_inmemory_avg_s: 0.081934
+TFLite_avg_s: 0.019225
+TFLite_model: /content/model_int8.tflite
